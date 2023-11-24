@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  DunyaGezgini
+
+  Created by MacBook Pro on 10.10.2022.
+  
+*/
+"TAB_MAP" = "Map";
+"TAB_CONVERSION" = "Conversion";
+"MAP_CITY_ISTANBUL" = "İstanbul";
+"MAP_CITY_LONDON" = "London";
+"CONVERSION_TEXT_FIELD" = "???";
+"CONVERSION_FAHRENHEIT" = "fahrenheit";
+"CONVERSION_IS_ACTUALLY" = "is actually";
+"CONVERSION_DEGREES_CELCIUS" = "degrees celcius";
+
+
+
+
+//Settings 👉🏻 General 👉🏻 Language & Region 👉🏻 iPhone Language
+
+
